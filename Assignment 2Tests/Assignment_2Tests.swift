@@ -1,15 +1,15 @@
 //
-//  ClassRosterTests.swift
-//  ClassRosterTests
+//  Assignment_2Tests.swift
+//  Assignment 2Tests
 //
-//  Created by Jackson on 9/17/15.
+//  Created by Jackson on 9/22/15.
 //  Copyright © 2015 Jackson. All rights reserved.
 //
 
 import XCTest
-@testable import ClassRoster
+@testable import Assignment_2
 
-class ClassRosterTests: XCTestCase {
+class Assignment_2Tests: XCTestCase {
     
     override func setUp() {
         super.setUp()

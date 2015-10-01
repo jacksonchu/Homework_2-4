@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>ClassRoster.xcscheme</key>
+		<key>Assignment 2.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,17 +12,17 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7AED4A651BABAE0800864409</key>
+		<key>7A893E9C1BB23D8F005BC930</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7AED4A791BABAE0800864409</key>
+		<key>7A893EB01BB23D8F005BC930</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>7AED4A841BABAE0800864409</key>
+		<key>7A893EBB1BB23D8F005BC930</key>
 		<dict>
 			<key>primary</key>
 			<true/>
